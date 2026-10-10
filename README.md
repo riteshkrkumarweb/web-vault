@@ -1,2 +1,3 @@
 # web-vault
-- **Website:** [MySimulator](https://www.mysimulator.uk/)
+# [MySimulator](https://www.mysimulator.uk/)
+# [CS Notes](https://glennhenry.github.io/cs-notes/)

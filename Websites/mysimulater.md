@@ -1,15 +1,14 @@
-# MySimulator
+# [MySimulator](https://www.mysimulator.uk/)
 
-- **Website:** [MySimulator](https://www.mysimulator.uk/)
-- **Category:** Simulation & Interactive Learning
-- **Description:** An online simulator website to explore and interact with simulations.
-- **Link:** https://www.mysimulator.uk/
+**Physics · Nature · Mathematics · Astronomy**
+
+- **Website:** https://www.mysimulator.uk/
+- **Category:** Interactive Simulations & Learning
+- **Simulations:** 28,000+
+- **Categories:** 552
+- **Installation:** No installation needed
 
 ## Notes
-- Explore the available simulations.
-- Save useful simulations for future learning.
-- Live Animation of 
-
-# Physics . Nature . Mathematics . Astronomy
-
-## 28,000+ simulations . 552 categories . no install needed
+- Live animations and interactive simulations.
+- Explore concepts in physics, nature, mathematics, and astronomy.
+- Useful for visual learning, experimentation, and understanding complex concepts.
